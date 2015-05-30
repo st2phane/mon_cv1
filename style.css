@@ -75,7 +75,7 @@ aside {
 	width:80px;
 	height:100%;
     border-radius: 5px 5px 5px 5px;
-	background: url('img/bleufond.jpg');
+	background: url('img/prairie.jpg');
 }
 
 @media screen and (max-width: 1024px) {
